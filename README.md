@@ -3,7 +3,6 @@
 This is a simple To-Do List application built using Node.js, CSS, JavaScript, and EJS.
 
 ## Installation
-
 1) Clone the repository:
 ```bash
 git clone https://github.com/Gaurav701a/LGMVIP_web_Todo-list_Task-1.git
