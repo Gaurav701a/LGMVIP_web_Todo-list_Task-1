@@ -1,5 +1,4 @@
 # To-Do List Application
-
 This is a simple To-Do List application built using Node.js, CSS, JavaScript, and EJS.
 
 ## Installation
